@@ -1,0 +1,1 @@
+# trabalhando-com-serverless-na-azure
